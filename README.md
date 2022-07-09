@@ -6,12 +6,13 @@ https://youtu.be/EqmEW9FDv5I
 
 ### Install instruction:
 
-Run
+Install dependencies
+
 ```sh
 npm install
 ```
 
-To start development
+Start development
 
 ```sh
 npx vite
